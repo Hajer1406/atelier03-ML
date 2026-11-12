@@ -1,0 +1,82 @@
+{
+ "qwen/qwen3.8-27b|I01.png": {
+  "categorie": "technique",
+  "latence_s": 2.22
+ },
+ "qwen/qwen3.8-27b|I02.png": {
+  "categorie": "technique",
+  "latence_s": 1.07
+ },
+ "qwen/qwen3.8-27b|I03.png": {
+  "categorie": "technique",
+  "latence_s": 1.91
+ },
+ "qwen/qwen3.8-27b|I04.png": {
+  "categorie": "technique",
+  "latence_s": 9.29
+ },
+ "qwen/qwen3.8-27b|I05.png": {
+  "categorie": "technique",
+  "latence_s": 5.0
+ },
+ "qwen/qwen3.8-27b|I06.png": {
+  "categorie": "facturation",
+  "latence_s": 4.78
+ },
+ "qwen/qwen3.8-27b|I07.png": {
+  "categorie": "facturation",
+  "latence_s": 3.93
+ },
+ "qwen/qwen3.8-27b|I08.png": {
+  "categorie": "facturation",
+  "latence_s": 3.72
+ },
+ "qwen/qwen3.8-27b|I09.png": {
+  "categorie": "facturation",
+  "latence_s": 4.57
+ },
+ "qwen/qwen3.8-27b|I10.png": {
+  "categorie": "facturation",
+  "latence_s": 5.1
+ },
+ "qwen/qwen3.8-27b|I11.png": {
+  "categorie": "compte",
+  "latence_s": 8.96
+ },
+ "qwen/qwen3.8-27b|I12.png": {
+  "categorie": "compte",
+  "latence_s": 4.66
+ },
+ "qwen/qwen3.8-27b|I13.png": {
+  "categorie": "compte",
+  "latence_s": 3.89
+ },
+ "qwen/qwen3.8-27b|I14.png": {
+  "categorie": "compte",
+  "latence_s": 4.33
+ },
+ "qwen/qwen3.8-27b|I15.png": {
+  "categorie": "compte",
+  "latence_s": 4.63
+ },
+ "qwen/qwen3.8-27b|I16.png": {
+  "categorie": "commercial",
+  "latence_s": 4.92
+ },
+ "qwen/qwen3.8-27b|I17.png": {
+  "categorie": "commercial",
+  "latence_s": 4.6
+ },
+ "qwen/qwen3.8-27b|I18.png": {
+  "categorie": "commercial",
+  "latence_s": 4.35
+ },
+ "qwen/qwen3.8-27b|I19.png": {
+  "categorie": "commercial",
+  "latence_s": 4.53
+ },
+ "qwen/qwen3.8-27b|I20.png": {
+  "categorie": "commercial",
+  "latence_s": 3.94
+ }
+}
